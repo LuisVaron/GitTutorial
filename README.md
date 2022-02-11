@@ -1,3 +1,3 @@
 # GitTutorial
 
-Este es un utoial sobre Git y Github
+Este es un tutorial sobre Git y Github
